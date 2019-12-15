@@ -1,6 +1,7 @@
 % Clear everything from the symbol table
 clear;
-% Clear the command window
+
+% Clear the command window to make it more readable
 clc;
 
 % Create and display descriptive information
